@@ -1,6 +1,7 @@
+/*What is typeof operator?
+JS provides a typeof operator that can examine a value and tell you what type it is: */
 
 let nameH = "Angela";
-// name.slice(0,1);
 console.log(typeof (nameH));
 let numbers = 5;
 console.log(typeof (numbers));
